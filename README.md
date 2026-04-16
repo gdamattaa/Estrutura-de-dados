@@ -1,10 +1,15 @@
 # Estrutura-de-dados
 Este repositório conta com 4 projetos desenvolvidos na disciplina de Estrutura de dados, onde foram desenvolvidos modelos de jogos clássicos utilizando estruturas de dados para aprendizado.
 
+------------------------------------------------------------------------------------------------------------------
 Para o jogo WAR foi utilizado: struct, vetor, entrada/saída, ponteiros, memória dinâmica, lógica de jogo,  modularização, design limpo e um sistema de missões.
 
+
+------------------------------------------------------------------------------------------------------------------
 Para o jogo DETETIVE foram utilizadas estruturas fundamentais como árvores e tabelas hash para controlar lógica de jogo
 
+
+------------------------------------------------------------------------------------------------------------------
 Foi feito um SISTEMA DE ARMAZENAMENTO utilizando o jogo FREE FIRE: 
   - Simulação o gerenciamento de um inventário de sobrevivência
   - Conceitos utilizados: Manipulação de estruturas e arrays; Criação de menus interativos; Implementação de buscas e ordenações; Pensamento modular e boas práticas de software.
@@ -21,6 +26,8 @@ Foi feito um SISTEMA DE ARMAZENAMENTO utilizando o jogo FREE FIRE:
     Uso de bool para controle de estado
     Análise de desempenho com contador de comparações.
 
+
+------------------------------------------------------------------------------------------------------------------
 Para o jogo TETRIS foi desenvolvido sistema de gerenciamento de peças, utilizando estruturas como fila circular e pilha.
   Funcionalidades do Sistema:
     Inicializar a fila com 5 peças geradas automaticamente.
